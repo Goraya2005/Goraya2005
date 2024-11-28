@@ -44,9 +44,9 @@ Explore my repositories to see a variety of projects that demonstrate my skills 
 
 ## 📫 **Connect with Me**
 
-- **LinkedIn**: [Muhammad Naeem Iqbal](https://linkedin.com/in/your-profile)
-- **GitHub**: [GitHub Profile](https://github.com/your-username)
-- **Email**: naeem.iqbal@example.com
+- **LinkedIn**: [Muhammad Naeem Iqbal]([h(https://www.linkedin.com/in/muhammad-naeem-iqbal/))
+- **GitHub**: [GitHub Profile](https://github.com/goraya2005)
+
 
 ---
 
